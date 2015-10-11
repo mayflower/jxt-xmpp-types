@@ -1,4 +1,4 @@
-import { JID } from 'xmpp-jid';
+import JID from 'node-xmpp-jid';
 
 
 export default function (JXT) {
